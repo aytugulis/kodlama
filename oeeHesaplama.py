@@ -37,3 +37,4 @@ def OEE():
     f=int(input("Toplam üretim miktarını giriniz:"))
     kal=(e/f)
     oee=(kul*per*kal)
+    return print("oee",oee)
